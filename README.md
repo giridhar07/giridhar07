@@ -3,7 +3,7 @@
 Good to see you here! 
 I have completed my Master's Degree in Computer Science from Sheffield Hallam University. Additionally, I have 4 years of experience in the industry, I am currently focused on FrontEnd Web development, but I still wish to explore many fields and new technologies.
 
-- 🔭 I’m currently working on building my Portfolio and refining my existing project and looking for Jobs ones.
+- 🔭 I’m currently working on building my Portfolio and refining my existing projects.
 - 🌱 I’m currently learning more about performance optimisation, clean architecture in frontend apps, and modern Next.js features.
 - 👯 I’m looking to collaborate on frontend or full-stack projects where UI, usability, and real user needs matter.
 - 🤔 I’m looking for help with deepening my understanding of scalable frontend architecture and system design.

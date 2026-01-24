@@ -17,7 +17,7 @@ I have completed my Master's Degree in Computer Science from Sheffield Hallam Un
 **Languages:** JavaScript, TypeScript, HTML5, CSS3, SQL  
 **Frameworks/Libraries:** React, Next.js, ASP.NET, Tailwind CSS, Material UI  
 **Tools:** Git, GitHub, Azure DevOps, CI/CD, Figma, Postman  
-**Databases:** SQL Server, MySQL  
+**Databases:** SQL Server, MySQL, MongoDB 
 
 🚀 Projects  
 
